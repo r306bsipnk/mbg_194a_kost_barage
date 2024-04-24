@@ -1,16 +1,11 @@
-# kost_barage
+# Kost Barage
 
-A new Flutter project.
+Aplikasi mobile untuk pengelola dan penghuni kost
 
-## Getting Started
+## Sistem Informasi Manajemen Kost-kostan Berbasis Mobile
+Nama aplikasi : Kost Barage
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Angelina : 19221040 
+Resti Aprilia luangkaly : 19221005 
+Silfia : 19221057 
+Bakista Varani Tasa  
