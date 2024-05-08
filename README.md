@@ -8,7 +8,7 @@ Nama aplikasi : Kost Barage
 1. Angelina : 19221040 
 2. Resti Aprilia luangkaly : 19221005 
 3. Silfia : 19221057 
-4. Bakista Varani Tasa  
+4. Bakista Varani Tasa  : 19220993
 
 ## Fitur
 1. home dashboard
